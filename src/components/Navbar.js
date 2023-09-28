@@ -1,10 +1,11 @@
 import React from "react";
+import Home from "./Home";
 
 
 const Navbar = () => {
     return (
     <ul>
-        <li>Home</li>
+        <Home />
         <li>About</li>
         <li>Projects</li>
         <li>Skills</li>
