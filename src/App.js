@@ -5,10 +5,12 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Contact from "./components/Contact";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Navigbar from "./components/Navbar";
 
 const App = () => {
   return ( 
   <Router>
+    <Navigbar />
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/about" element={<About />} />
