@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card';
 import CardGroup from 'react-bootstrap/CardGroup';
-import { projects } from '../data';
+import  projects  from '../data';
 import  Button  from 'react-bootstrap/Button';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
