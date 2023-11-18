@@ -1,4 +1,4 @@
-export const projects = [
+const projects = [
   {
     title: "What-you-tryna-watch",
     description:
@@ -25,3 +25,4 @@ export const projects = [
   },
 ];
 
+export default projects;
