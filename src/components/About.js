@@ -10,9 +10,9 @@ const Another = () => {
       <Container>
         <Row>
           <Col lg={8}>
-            <h2 className="section-heading text-uppercase text-center">
+            {/* <h2 className="section-heading text-uppercase text-center">
               About Me
-            </h2>
+            </h2> */}
             <p className="text-primary">
               Hi there! I'm Basu Khanal, a passionate and creative web developer
               based in Cincinnati, Ohio. With a background in Software

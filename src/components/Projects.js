@@ -2,12 +2,12 @@ import React from 'react';
 import Card from 'react-bootstrap/Card';
 import CardGroup from 'react-bootstrap/CardGroup';
 import  projects  from '../data';
-import  Button  from 'react-bootstrap/Button';
+/* import  Button  from 'react-bootstrap/Button';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
-import data from '../data';
+import data from '../data'; */
 import { Container } from 'react-bootstrap';
-import { getNextKeyDef } from '@testing-library/user-event/dist/keyboard/getNextKeyDef';
+// import { getNextKeyDef } from '@testing-library/user-event/dist/keyboard/getNextKeyDef';
 
 const Projects = () => {
   return (
