@@ -2,8 +2,8 @@ import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import  Button  from 'react-bootstrap/Button';
 
-const Another = () => {
-  const linkedinURL = 'https://www.linkedin.com/in/basu-khanal'
+const About = () => {
+  const linkedinURL = 'https://www.linkedin.com/in/basukhanal/'
   const gitHubURL = 'https://www.github.com/bkhanal87'
   return (
     <section id="about" className="py-5">
@@ -49,4 +49,4 @@ const Another = () => {
   );
 };
 
-export default Another;
+export default About;
