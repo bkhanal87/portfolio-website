@@ -10,7 +10,7 @@ const projects = [
   {
     title: "National Parks",
     description:
-      "This website was designed to give users an easy way to search for national parks to see while visiting a state, as well as look for different activities to do while visiting",
+      "This application was built to allow users to search for national parks in their desired U.S. State by the activity they want to do and see current weather conditions for that park",
     image: './national-parks.gif',
     repo: "https://github.com/bkhanal87/National-Parks",
     demo: "https://bkhanal87.github.io/National-Parks/",
