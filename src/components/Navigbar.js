@@ -26,7 +26,7 @@ const Navigbar = () => {
           {/* Resume link and LinkedIn link go here */}
           <Nav>
             <Nav.Link href="/resume.pdf">Resume</Nav.Link>
-            <Nav.Link href="https://www.linkedin.com/in/basukhanal/">
+            <Nav.Link href="www.linkedin.com/in/basukhanal">
               LinkedIn
             </Nav.Link>
           </Nav>
