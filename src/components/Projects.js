@@ -6,7 +6,6 @@ import projects from "../data";
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import data from '../data'; */
-import { Container } from "react-bootstrap";
 // import { getNextKeyDef } from '@testing-library/user-event/dist/keyboard/getNextKeyDef';
 
 const Projects = () => {
