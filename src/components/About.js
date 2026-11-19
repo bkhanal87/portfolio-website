@@ -15,15 +15,15 @@ const About = () => {
             </h2> */}
             <p className="text-primary">
               Hi there! I'm Basu Khanal, a passionate and creative web developer
-              based in Cincinnati, Ohio. With a background in Software
-              Development, I bring a unique perspective to web development. My
+              based in Cincinnati, Ohio. With a background in software
+              development, I bring a unique perspective to web development. My
               goal is to create innovative and user-friendly websites that leave
               a lasting impression.
             </p>
             <p className="text-primary">
-              I specialize in front-end development, using technologies like
-              React, HTML, CSS, and JavaScript. I enjoy turning complex problems
-              into simple, beautiful, and intuitive designs. Constantly seeking
+              With a solid command of Angular and React for crafting dynamic, responsive front-end 
+              experiences and Java for building robust back-end systems,
+              I specialize in creating seamless end-to-end solutions. Constantly seeking
               to improve my skills, I stay updated with the latest trends and
               technologies in the ever-evolving world of web development.
             </p>
